@@ -47,8 +47,8 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  height: 768px;
-}
+  max-width: 100%;
+  height: auto;}
 
 
 /* MARKETING CONTENT
